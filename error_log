@@ -1,0 +1,1 @@
+[02-Aug-2013 22:06:53 America/New_York] PHP Warning:  mysql_connect(): Access denied for user 'rms'@'localhost' (using password: YES) in /home/poemods/public_html/cans/index.php on line 3
